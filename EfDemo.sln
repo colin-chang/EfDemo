@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfDemo.Domain", "EfDemo.Domain\EfDemo.Domain.csproj", "{FBA95793-6D2F-4F50-A0E6-C831FF7BC1D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfDemo.Data", "EfDemo.Data\EfDemo.Data.csproj", "{705EC6BF-B0F4-48FD-9505-C60BEDAC77D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfDemo.App", "EfDemo.App\EfDemo.App.csproj", "{1F550300-375A-4135-B0DA-DCDC301116CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBA95793-6D2F-4F50-A0E6-C831FF7BC1D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBA95793-6D2F-4F50-A0E6-C831FF7BC1D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBA95793-6D2F-4F50-A0E6-C831FF7BC1D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBA95793-6D2F-4F50-A0E6-C831FF7BC1D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{705EC6BF-B0F4-48FD-9505-C60BEDAC77D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{705EC6BF-B0F4-48FD-9505-C60BEDAC77D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{705EC6BF-B0F4-48FD-9505-C60BEDAC77D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{705EC6BF-B0F4-48FD-9505-C60BEDAC77D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F550300-375A-4135-B0DA-DCDC301116CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F550300-375A-4135-B0DA-DCDC301116CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F550300-375A-4135-B0DA-DCDC301116CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F550300-375A-4135-B0DA-DCDC301116CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
